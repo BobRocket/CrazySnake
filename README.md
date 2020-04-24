@@ -1,1 +1,1 @@
-＃疯Snake
+＃CrazySnake
